@@ -1,0 +1,15 @@
+h1 {
+    color: #0800FF;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    border: 1px solid #333333;
+    box-shadow: 2px 5px #cccccc;
+}
+h2 {
+    color:#9AE0D6;
+}
+h2.my-name{
+    color: orange;
+}
